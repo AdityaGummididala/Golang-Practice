@@ -13,6 +13,11 @@ func main() { //pseudo random number is a number that isn't random but it is ran
 	fmt.Printf("Now you have %g problems. \n", math.Sqrt(4))
 }
 
+/*
+It is always recommended that you use factored input statements instead of writing multiple import statements like
+import "fmt"
+import "math"
+*/
 // this is a single linecomment
 
 /*
